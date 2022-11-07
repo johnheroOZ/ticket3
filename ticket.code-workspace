@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": "../ticket"
+		},
+		{
+			"path": "../tickets"
+		},
+		{
+			"path": "../ticket2"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "ticket"
+	}
+}
